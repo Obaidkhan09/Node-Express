@@ -1,0 +1,4 @@
+This is new file created with writeFileSync
+    This is used in FileSystem (FS) Sync & Async.,
+    This is used as a test file to practice path.join method.
+This is also used in FileSystem (FS) Sync & Async.
